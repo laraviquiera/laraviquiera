@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laraviquiera&label=Profile%20views&color=0e75b6&style=flat" alt="laraviquiera" /> </p>
 
-- 🔭 I’m currently working on [Spaceman](laraviquiera.github.io/spaceman/)
+- 🔭 I’m currently working on [Spaceman](https://laraviquiera.github.io/spaceman/)
 
 - 🌱 I’m currently learning **HTML | CSS | JavaScript| Full-stack Development | Python | Django | React | MERN-Stack**
 
