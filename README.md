@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/zhZBcd6.png)]
+![MasterHead](https://i.imgur.com/zhZBcd6.png)
 <h1 align="center">Hi 👋, I'm Lara</h1>
 <h3 align="center">Software Engineering student at General Assembly</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif">
