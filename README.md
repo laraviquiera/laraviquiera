@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Spaceman](https://laraviquiera.github.io/spaceman/)
 
-- 🌱 I’m currently learning **HTML | CSS | JavaScript| Full-stack Development | Python | Django | MERN-Stack**
+- 🌱 I’m currently learning **Full-stack Development | Python | Django | MERN-Stack**
 
 - 📫 How to reach me **lara.viquiera@gmail.com**
 
