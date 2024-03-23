@@ -1,6 +1,6 @@
 ![MasterHead](https://i.imgur.com/odvacwf.png)
 <h1 align="center">Hi 👋, I'm Lara</h1>
-<h3 align="center">Software Engineering student at General Assembly</h3>
+<h3 align="center">A Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laraviquiera&label=Profile%20views&color=0e75b6&style=flat" alt="laraviquiera" /> </p>
 
