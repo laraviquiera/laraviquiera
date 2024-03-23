@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/odvacwf.png)
+![MasterHead](https://i.imgur.com/NcXKmHc.png)
 <h1 align="center">Hi 👋, I'm Lara</h1>
 <h3 align="center">Software Developer</h3>
 
